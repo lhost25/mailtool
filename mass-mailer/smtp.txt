@@ -1,0 +1,4 @@
+smtp.gmail.com|587|thetentonline@gmail.com|vljspctvroibhkmb
+smtp.gmail.com|587|thetentonline@gmail.com|vljspctvroibhkmb
+smtp.gmail.com|587|thetentonline@gmail.com|vljspctvroibhkmb
+smtp.gmail.com|587|thetentonline@gmail.com|vljspctvroibhkmb
